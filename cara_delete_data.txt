@@ -1,0 +1,4 @@
+1. Go to "OPTION"
+2. Choose "PADAM DATA"
+3. Press "YES"
+4. All your data, Offline and Online will be deleted.
